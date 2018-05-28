@@ -21,7 +21,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    TIMManager *mgr = [TIMManager new];
+    TIMManager * manager = [TIMManager sharedInstance];
     
     return YES;
 }
