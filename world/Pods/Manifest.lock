@@ -1,0 +1,105 @@
+PODS:
+  - Alamofire (4.7.2)
+  - Cent (7.0.0):
+    - Dollar (~> 7.1.0)
+  - Dollar (7.1.0)
+  - ImagePicker (3.0.0)
+  - INTULocationManager (4.2.0)
+  - KeychainAccess (3.1.0)
+  - Kingfisher (4.6.1)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - ObjectMapper (3.1.0)
+  - RxBlocking (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - SnapKit (4.0.0)
+  - SVProgressHUD (2.0.4)
+  - SwiftyJSON (4.0.0)
+  - TimedSilver (1.1.0)
+  - TSVoiceConverter (0.1.6)
+  - UIColor_Hex_Swift (4.0.1)
+  - XCGLogger (6.0.2):
+    - XCGLogger/Core (= 6.0.2)
+  - XCGLogger/Core (6.0.2):
+    - ObjcExceptionBridging
+  - XLActionController (4.0.1):
+    - XLActionController/Core (= 4.0.1)
+  - XLActionController/Core (4.0.1)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Cent (= 7.0.0)
+  - Dollar (= 7.1.0)
+  - ImagePicker
+  - INTULocationManager (= 4.2.0)
+  - KeychainAccess (= 3.1.0)
+  - Kingfisher (= 4.6.1)
+  - ObjectMapper (~> 3.1)
+  - RxBlocking (~> 4.0)
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SnapKit (~> 4.0.0)
+  - SVProgressHUD (= 2.0.4)
+  - SwiftyJSON (= 4.0.0)
+  - TimedSilver (= 1.1.0)
+  - TSVoiceConverter (= 0.1.6)
+  - UIColor_Hex_Swift (~> 4.0.1)
+  - XCGLogger (~> 6.0.1)
+  - XLActionController
+  - YYText (= 1.0.7)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Cent
+    - Dollar
+    - ImagePicker
+    - INTULocationManager
+    - KeychainAccess
+    - Kingfisher
+    - ObjcExceptionBridging
+    - ObjectMapper
+    - RxBlocking
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+    - SVProgressHUD
+    - SwiftyJSON
+    - TimedSilver
+    - TSVoiceConverter
+    - UIColor_Hex_Swift
+    - XCGLogger
+    - XLActionController
+    - YYText
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  Cent: fb5ef7da981cc382a3562da5d86a01461cfb5ac4
+  Dollar: dc69a2997fa5df12ae7a91fec897963664c26750
+  ImagePicker: 973953c25960fe04729a7082a56194321c6762d2
+  INTULocationManager: 73f8254b3d05c897c56bb13c190e5b7c648c0998
+  KeychainAccess: 94c5540b32eabf7bc32bfb976a268e8ea05fd6da
+  Kingfisher: 1f9157d9c02b380cbd0b7cc890161195164eb634
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  RxBlocking: f6054985901412fc8c02daa84e92d4ba68c61389
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SVProgressHUD: bfde85ed6c573ea802b9cb37894ed9b629034f1b
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  TimedSilver: 07e6e9098989104d558801371c05f64bcaf354f5
+  TSVoiceConverter: 4143689b2b5df5fecedf9420bf7ce6fd4c98746c
+  UIColor_Hex_Swift: c5ff88470499383b8fd85302d59344bb24ba9436
+  XCGLogger: c9601cae9a8912de34a58666ba931ed3d624dd31
+  XLActionController: 007868251c0eed70d649d06c1625259b73b3a600
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 1382567ef4917e83a9b2b58ab10ecf044cc473fc
+
+COCOAPODS: 1.5.2
