@@ -1,0 +1,16 @@
+world/world/extern/tencent/TXRTMPSDK.framework filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/IMUGCExt.framework filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/TLSSDK.framework filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/IMMessageExt.framework filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/IMSDKBugly.framework filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/ImSDK.framework filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/QALHttpSDK.framework filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/QALSDK.framework filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/IMFriendshipExt.framework filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/IMGroupExt.framework filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/ImSDK.framework/ImSDK filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/QALSDK.framework/QALSDK filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/TXRTMPSDK.framework/TXRTMPSDK filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/QALHttpSDK.framework/QALHttpSDK filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/IMMessageExt.framework/IMMessageExt filter=lfs diff=lfs merge=lfs -text
+world/world/extern/tencent/TLSSDK.framework/TLSSDK filter=lfs diff=lfs merge=lfs -text
