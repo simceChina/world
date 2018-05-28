@@ -7,6 +7,10 @@
 //
 
 #import "AppDelegate.h"
+#import <ImSDK/ImSDK.h>
+#import <IMMessageExt/IMMessageExt.h>
+#import <IMGroupExt/IMGroupExt.h>
+#import <IMFriendshipExt/IMFriendshipExt.h>
 
 @interface AppDelegate ()
 
@@ -17,6 +21,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    TIMManager *mgr = [TIMManager new];
+    
     return YES;
 }
 

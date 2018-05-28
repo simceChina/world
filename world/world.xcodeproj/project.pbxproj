@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3435360D20BC1F0A00AB4A90 /* QALSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3435360320BC1F0900AB4A90 /* QALSDK.framework */; };
+		3435360E20BC1F0A00AB4A90 /* ImSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3435360420BC1F0900AB4A90 /* ImSDK.framework */; };
+		3435360F20BC1F0A00AB4A90 /* IMGroupExt.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3435360520BC1F0A00AB4A90 /* IMGroupExt.framework */; };
+		3435361020BC1F0A00AB4A90 /* IMUGCExt.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3435360620BC1F0A00AB4A90 /* IMUGCExt.framework */; };
+		3435361120BC1F0A00AB4A90 /* QALHttpSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3435360720BC1F0A00AB4A90 /* QALHttpSDK.framework */; };
+		3435361220BC1F0A00AB4A90 /* TLSSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3435360820BC1F0A00AB4A90 /* TLSSDK.framework */; };
+		3435361320BC1F0A00AB4A90 /* IMSDKBugly.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3435360920BC1F0A00AB4A90 /* IMSDKBugly.framework */; };
+		3435361420BC1F0A00AB4A90 /* TXRTMPSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3435360A20BC1F0A00AB4A90 /* TXRTMPSDK.framework */; };
+		3435361520BC1F0A00AB4A90 /* IMMessageExt.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3435360B20BC1F0A00AB4A90 /* IMMessageExt.framework */; };
+		3435361620BC1F0A00AB4A90 /* IMFriendshipExt.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3435360C20BC1F0A00AB4A90 /* IMFriendshipExt.framework */; };
 		34B8A32820109F9E00D093F8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 34B8A32720109F9E00D093F8 /* AppDelegate.m */; };
 		34B8A32B20109F9E00D093F8 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 34B8A32A20109F9E00D093F8 /* FirstViewController.m */; };
 		34B8A32E20109F9E00D093F8 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 34B8A32D20109F9E00D093F8 /* SecondViewController.m */; };
@@ -14,11 +24,28 @@
 		34B8A33320109F9E00D093F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34B8A33220109F9E00D093F8 /* Assets.xcassets */; };
 		34B8A33620109F9E00D093F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34B8A33420109F9E00D093F8 /* LaunchScreen.storyboard */; };
 		34B8A33920109F9E00D093F8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 34B8A33820109F9E00D093F8 /* main.m */; };
+		34FF2AB720BC21440033D809 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 34FF2AB620BC21440033D809 /* CoreTelephony.framework */; };
+		34FF2AB920BC214D0033D809 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 34FF2AB820BC214D0033D809 /* SystemConfiguration.framework */; };
+		34FF2ABB20BC21560033D809 /* libstdc++.6.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 34FF2ABA20BC21550033D809 /* libstdc++.6.tbd */; };
+		34FF2ABD20BC215E0033D809 /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 34FF2ABC20BC215E0033D809 /* libc++.tbd */; };
+		34FF2ABF20BC21680033D809 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 34FF2ABE20BC21680033D809 /* libz.tbd */; };
+		34FF2AC120BC21720033D809 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 34FF2AC020BC21720033D809 /* libsqlite3.tbd */; };
+		34FF2AC320BC21A20033D809 /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 34FF2AC220BC21A20033D809 /* libresolv.tbd */; };
 		4923E9A2C50F09518DC58DB6 /* Pods_world.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87F022CF4E8A713A2A8218A3 /* Pods_world.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		10F4523A49A608ECBA1DF20A /* Pods-world.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-world.release.xcconfig"; path = "Pods/Target Support Files/Pods-world/Pods-world.release.xcconfig"; sourceTree = "<group>"; };
+		3435360320BC1F0900AB4A90 /* QALSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QALSDK.framework; sourceTree = "<group>"; };
+		3435360420BC1F0900AB4A90 /* ImSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ImSDK.framework; sourceTree = "<group>"; };
+		3435360520BC1F0A00AB4A90 /* IMGroupExt.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IMGroupExt.framework; sourceTree = "<group>"; };
+		3435360620BC1F0A00AB4A90 /* IMUGCExt.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IMUGCExt.framework; sourceTree = "<group>"; };
+		3435360720BC1F0A00AB4A90 /* QALHttpSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QALHttpSDK.framework; sourceTree = "<group>"; };
+		3435360820BC1F0A00AB4A90 /* TLSSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TLSSDK.framework; sourceTree = "<group>"; };
+		3435360920BC1F0A00AB4A90 /* IMSDKBugly.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IMSDKBugly.framework; sourceTree = "<group>"; };
+		3435360A20BC1F0A00AB4A90 /* TXRTMPSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TXRTMPSDK.framework; sourceTree = "<group>"; };
+		3435360B20BC1F0A00AB4A90 /* IMMessageExt.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IMMessageExt.framework; sourceTree = "<group>"; };
+		3435360C20BC1F0A00AB4A90 /* IMFriendshipExt.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IMFriendshipExt.framework; sourceTree = "<group>"; };
 		34B8A32320109F9E00D093F8 /* world.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = world.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34B8A32620109F9E00D093F8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		34B8A32720109F9E00D093F8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -31,6 +58,13 @@
 		34B8A33520109F9E00D093F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		34B8A33720109F9E00D093F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		34B8A33820109F9E00D093F8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		34FF2AB620BC21440033D809 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		34FF2AB820BC214D0033D809 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		34FF2ABA20BC21550033D809 /* libstdc++.6.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.6.tbd"; path = "usr/lib/libstdc++.6.tbd"; sourceTree = SDKROOT; };
+		34FF2ABC20BC215E0033D809 /* libc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++.tbd"; path = "usr/lib/libc++.tbd"; sourceTree = SDKROOT; };
+		34FF2ABE20BC21680033D809 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		34FF2AC020BC21720033D809 /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		34FF2AC220BC21A20033D809 /* libresolv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libresolv.tbd; path = usr/lib/libresolv.tbd; sourceTree = SDKROOT; };
 		760F0F0BBB337A8226EBF970 /* Pods-world.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-world.debug.xcconfig"; path = "Pods/Target Support Files/Pods-world/Pods-world.debug.xcconfig"; sourceTree = "<group>"; };
 		87F022CF4E8A713A2A8218A3 /* Pods_world.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_world.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -40,7 +74,24 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34FF2AC320BC21A20033D809 /* libresolv.tbd in Frameworks */,
+				34FF2AC120BC21720033D809 /* libsqlite3.tbd in Frameworks */,
+				34FF2ABF20BC21680033D809 /* libz.tbd in Frameworks */,
+				34FF2ABD20BC215E0033D809 /* libc++.tbd in Frameworks */,
+				34FF2ABB20BC21560033D809 /* libstdc++.6.tbd in Frameworks */,
+				34FF2AB920BC214D0033D809 /* SystemConfiguration.framework in Frameworks */,
+				34FF2AB720BC21440033D809 /* CoreTelephony.framework in Frameworks */,
+				3435360F20BC1F0A00AB4A90 /* IMGroupExt.framework in Frameworks */,
+				3435360D20BC1F0A00AB4A90 /* QALSDK.framework in Frameworks */,
+				3435361620BC1F0A00AB4A90 /* IMFriendshipExt.framework in Frameworks */,
+				3435361120BC1F0A00AB4A90 /* QALHttpSDK.framework in Frameworks */,
+				3435361320BC1F0A00AB4A90 /* IMSDKBugly.framework in Frameworks */,
+				3435361020BC1F0A00AB4A90 /* IMUGCExt.framework in Frameworks */,
 				4923E9A2C50F09518DC58DB6 /* Pods_world.framework in Frameworks */,
+				3435360E20BC1F0A00AB4A90 /* ImSDK.framework in Frameworks */,
+				3435361420BC1F0A00AB4A90 /* TXRTMPSDK.framework in Frameworks */,
+				3435361520BC1F0A00AB4A90 /* IMMessageExt.framework in Frameworks */,
+				3435361220BC1F0A00AB4A90 /* TLSSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,6 +109,16 @@
 		343535C420BC06CC00AB4A90 /* tencent */ = {
 			isa = PBXGroup;
 			children = (
+				3435360C20BC1F0A00AB4A90 /* IMFriendshipExt.framework */,
+				3435360520BC1F0A00AB4A90 /* IMGroupExt.framework */,
+				3435360B20BC1F0A00AB4A90 /* IMMessageExt.framework */,
+				3435360420BC1F0900AB4A90 /* ImSDK.framework */,
+				3435360920BC1F0A00AB4A90 /* IMSDKBugly.framework */,
+				3435360620BC1F0A00AB4A90 /* IMUGCExt.framework */,
+				3435360720BC1F0A00AB4A90 /* QALHttpSDK.framework */,
+				3435360320BC1F0900AB4A90 /* QALSDK.framework */,
+				3435360820BC1F0A00AB4A90 /* TLSSDK.framework */,
+				3435360A20BC1F0A00AB4A90 /* TXRTMPSDK.framework */,
 			);
 			path = tencent;
 			sourceTree = "<group>";
@@ -102,6 +163,13 @@
 		602FD2DE29456A70CBEE574C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				34FF2AC220BC21A20033D809 /* libresolv.tbd */,
+				34FF2AC020BC21720033D809 /* libsqlite3.tbd */,
+				34FF2ABE20BC21680033D809 /* libz.tbd */,
+				34FF2ABC20BC215E0033D809 /* libc++.tbd */,
+				34FF2ABA20BC21550033D809 /* libstdc++.6.tbd */,
+				34FF2AB820BC214D0033D809 /* SystemConfiguration.framework */,
+				34FF2AB620BC21440033D809 /* CoreTelephony.framework */,
 				87F022CF4E8A713A2A8218A3 /* Pods_world.framework */,
 			);
 			name = Frameworks;
@@ -144,7 +212,7 @@
 		34B8A31B20109F9E00D093F8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0920;
+				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = world;
 				TargetAttributes = {
 					34B8A32220109F9E00D093F8 = {
@@ -311,6 +379,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -318,6 +387,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -366,6 +436,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -373,6 +444,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -405,9 +477,16 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 760F0F0BBB337A8226EBF970 /* Pods-world.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_WARN_STRICT_PROTOTYPES = NO;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6DCR4JPJS8;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/world/extern/tencent/**",
+				);
 				INFOPLIST_FILE = world/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "-ObjC";
@@ -421,9 +500,16 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 10F4523A49A608ECBA1DF20A /* Pods-world.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_WARN_STRICT_PROTOTYPES = NO;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6DCR4JPJS8;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/world/extern/tencent/**",
+				);
 				INFOPLIST_FILE = world/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "-ObjC";
